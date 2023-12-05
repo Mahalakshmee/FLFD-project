@@ -62,6 +62,14 @@ The primary objective of this system is to enable fuel tank refilling without hu
 - Different types operate on Ultra High Frequency (UHF), High Frequency (HF), or Low Frequency (LF).
 - Can be passive or active, with various applications including object tracking and identification.
 
+### Flowchart
+
+![Flowchart](https://github.com/Mahalakshmee/FLFD-project/blob/main/Project%20Images/Flow%20diagram%20of%20FLFD.jpeg)
+
+### Prototype Output
+
+![Prototype Output](https://github.com/Mahalakshmee/FLFD-project/blob/main/Project%20Images/Prototype%20output.jpeg)
+
 ## Conclusion
 
 The proposed Petrol Pump Automation System represents a significant leap in the efficiency and security of fuel dispensing. By leveraging RFID technology, IoT communication, and a centralized web server, the system ensures a seamless and secure experience for both customers and petrol companies. Automated processes reduce human errors, eliminate the need for physical currency, and enhance the overall reliability of petrol pump operations.
